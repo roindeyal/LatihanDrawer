@@ -47,4 +47,10 @@
         android:label="@string/menu_cart"
         tools:layout="@layout/fragment_cart"/>
 
+    <activity
+        android:id="@+id/nav_subway"
+        android:name="com.svafvel.software.production.mynavigationdrawe.SubwayActivity"
+        android:label="activity_subway"
+        tools:layout="@layout/activity_subway" />
+
 </navigation>
